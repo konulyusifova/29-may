@@ -1,0 +1,28 @@
+.head {
+  position: absolute;
+  top: 40px;
+  z-index: 9;
+}
+.head .menu {
+  padding: 0 50px;
+}
+.head .text {
+  padding: 200px 0;
+}
+
+.bg-color {
+  background-color: rgb(229, 231, 231);
+  padding: 80px;
+}
+.bg-color .text-2 {
+  padding: 120px 80px;
+}
+.bg-color .inp {
+  background-color: white;
+  padding: 100px 140px;
+}
+
+.medium {
+  width: 90%;
+  margin: 40px 5%;
+}/*# sourceMappingURL=style.css.map */
